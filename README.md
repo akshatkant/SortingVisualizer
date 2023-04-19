@@ -1,5 +1,6 @@
 # SortingVisualizer
 It can visualize the sorting process of different algorithms. The size of the array and the speed can be controlled.
+View: https://akshatkant.github.io/SortingVisualizer/
 
 
 
